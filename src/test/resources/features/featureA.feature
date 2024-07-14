@@ -7,3 +7,4 @@ Feature: The application should be running
     And I fill the form with valid credentials
     Then I should see "You logged into a secure area!" message
 
+
